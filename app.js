@@ -38,7 +38,7 @@ Ext.application({
     name: 'ExtMVC',
 
     controllers: [
-        'SelectController'
+        'Stocks'
     ],
 
     autoCreateViewport: true

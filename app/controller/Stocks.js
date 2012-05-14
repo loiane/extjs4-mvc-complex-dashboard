@@ -1,4 +1,4 @@
-Ext.define('ExtMVC.controller.SelectController', {
+Ext.define('ExtMVC.controller.Stocks', {
     extend: 'Ext.app.Controller',
 
     models: ['Stock','RadarDataSet'],
